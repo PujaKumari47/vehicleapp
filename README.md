@@ -18,7 +18,7 @@ Getting started
 
 ### Installation
  - Install Xcode
- - Clone the github repo
+ - Download Zip file & extract it.
  - From terminal go to the project root folder and run `pod install`
  - From the Xcode, choose scheme `VechileApp`
  - Run the project
