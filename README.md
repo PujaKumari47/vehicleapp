@@ -1,7 +1,7 @@
-# vehicleapp
+# VehicleApp
 ### Description
 
-An integrated learning platform that helps colleges admin, faculty, and students organize and manage entrepreneurship education.
+An app that displays a list of vehicles. The vehicles will be loaded from a external API.
 
 Getting started
 ----
