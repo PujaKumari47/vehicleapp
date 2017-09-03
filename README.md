@@ -14,7 +14,7 @@ Getting started
 ### Dependencies
 
  1. Networking Library - [Alamofire](https://github.com/Alamofire/Alamofire)
- 2.Json Parsing Library - [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) 
+ 2. Json Parsing Library - [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) 
 
 ### Installation
  - Install Xcode
